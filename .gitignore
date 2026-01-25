@@ -1,0 +1,11 @@
+node_modules
+dist
+build
+out
+release
+.DS_Store
+*.dmg
+*.zip
+*.exe
+*.app
+.env
